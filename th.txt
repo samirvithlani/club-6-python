@@ -1,0 +1,115 @@
+
+10 / 3 3.3
+10//3 3
+operators in python
+arithmatic operators in python
++
+-
+*
+/
+%
+//  floor division
+**  power
+
+relational operators in python
+<
+>
+<=
+>=
+==
+!=
+is
+is not
+
+logical operators
+
+and &&
+or ||
+not !
+
+bitwise operators
+& bitwise and
+| bitwise or
+^ bitwise xor
+~ bitwise not
+<< left shift
+>> right shift
+
+asingnment operators
+=
++=
+-=
+*=
+/=
+%=
+//=
+**=
+
+identity operators
+is
+is not
+
+membership operators
+in
+not in
+
+
+ternerary operator
+: ?
+
+decesion making statements
+if
+if else
+if elif else
+nested if
+
+looping statements
+while
+for
+
+if(no1>no2){
+    //block  --> statements
+}
+else{
+    //block --> statements
+}
+iden
+if condition:
+    #block
+    #
+    #
+    #
+
+else:
+    #block
+
+
+and or
+
+no  even  50 >
+no % 2 == 0 and no > 50
+t     t        t
+f     -        f
+t     f        f
+
+or
+
+
+t      -     t
+f      t     t
+f      f     f
+
+
+entry control looping
+for 
+while 
+
+starting poin ending point for loopp
+
+condition break
+1 to n 
+
+
+
+
+
