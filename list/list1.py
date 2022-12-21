@@ -16,11 +16,6 @@ users1 = users.copy()
 print(users1)
 
 
-
-
-
-
-
 l = len(users)
 for i in range(0,l):
     print(users[i])

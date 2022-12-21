@@ -1,0 +1,12 @@
+1) loop --> find armstrong no 
+    20
+
+2) array --> find max element 
+     10
+
+3) sort array without using sort function
+    20
+    
+take elementf from user using input function
+4 add element in list and print it using append function
+20
