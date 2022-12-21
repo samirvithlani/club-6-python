@@ -111,5 +111,9 @@ condition break
 
 
 
+list --> ["student name"] --> palindrome --->> palindrome tuple....
+["name"]
+plaindrometuple = ("naman)
+
 
 
