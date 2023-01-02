@@ -117,3 +117,13 @@ plaindrometuple = ("naman)
 
 
 
+list = [male]
+list = ["Ajay","Jay"]
+
+list[female]
+list["Neha","Reena"]
+
+dict =
+1)name upper case
+2)name lower case
+3)match len of male female char and if yes thn  add it
