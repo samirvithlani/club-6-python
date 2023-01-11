@@ -127,3 +127,8 @@ dict =
 1)name upper case
 2)name lower case
 3)match len of male female char and if yes thn  add it
+
+
+1)list ---> remove duplicate elements from list useing set
+find min elemt from set
+find max elmt from set
