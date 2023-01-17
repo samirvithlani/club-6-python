@@ -1,0 +1,4 @@
+string is a sequence of Unicaode characters that is enclosed the question mark..
+Unicaode ??? --> A --> Unicaode 
+
+in python string is immutable :- no modificartion can be done with same referenace -->
