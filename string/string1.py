@@ -24,11 +24,11 @@ index = name.find("x",6,len(name))
 #name = name.title()
 #flag = name.istitle()
 #flag = name.isspace()
-flag = name.isprintable()
+#flag = name.isprintable()
 
 print(name)
 print(c)
-print(flag)
+#print(flag)
 print(index)
 
 

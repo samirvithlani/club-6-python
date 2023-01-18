@@ -132,3 +132,6 @@ dict =
 1)list ---> remove duplicate elements from list useing set
 find min elemt from set
 find max elmt from set
+
+tuple --> ("","","","","")
+
