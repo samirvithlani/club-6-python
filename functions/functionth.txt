@@ -1,0 +1,14 @@
+function : function is collection of statements
+use : to perform a specific task, reuse the code
+
+boiler plate code : code which is used again and again
+
+with return type with argument
+without return type with argument
+with return type without argument
+without return type without argument
+
+
+def nameoffunction(arg1):
+    statements
+    return value
