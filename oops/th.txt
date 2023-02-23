@@ -1,0 +1,38 @@
+oops:
+inheritance
+
+
+encapsulation
+
+    encapsulation:wrapping up of data and functions into a single unit
+    
+   class :- class is a user defined data type which contains data and functions
+            class is blueprint of object
+
+   object : object is a instance / identity /  of class
+            object is a real world entity
+
+class        object            
+Vehicle      car
+             bike
+             bus
+             train
+color       red,blue,green
+            black,white
+            yellow,orange
+
+Fruit        Apple
+             Mango
+             Banana
+             Grapes
+
+
+
+
+   constructor
+polymorphism
+    overloading
+    overriding
+abstraction
+    abstraction
+    interface
