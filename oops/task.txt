@@ -1,0 +1,32 @@
+employee management system:
+
+add employee
+ name
+ id
+ city
+ post
+ salary
+
+display employee
+ name
+ id
+ city
+ post
+ salary
+
+pass id in function and get that employee detail
+getEmpDetail(id):
+    name
+    id
+    city
+    post
+    salary
+
+sort employee():salary
+ name
+ id
+ city
+ post
+ salary
+ 
+
