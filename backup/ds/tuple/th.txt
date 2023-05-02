@@ -1,0 +1,11 @@
+//tuple is mutable or immutable??
+//mutable means you can modify the object ....
+//immutable means you can not modify the object ....
+//list is mutable and tuple is immutable
+//tuple is faster than list
+//tuple is used when you want to make sure that the data is not changed by mistake
+//tuple allows duplicate values
+//tuple allows null values
+//tuple allows heterogeneous values   what is heterogeneous values?? different data types
+//tuple allows insertion order
+//tuple stores values in indexed format

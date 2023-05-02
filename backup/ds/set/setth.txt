@@ -1,0 +1,10 @@
+set
+set is immutable
+set is unordered
+set is unindexed
+set allows only unique values
+set allows only immutable data types
+set allows heterogeneous data types
+set declaration is done by using {}
+
+"""
