@@ -1,0 +1,28 @@
+10 students record
+id 
+name
+10th marks 80^%
+12th marks 70%
+
+record can not be changed but more students can added
+
+heighest scoring student in 1oth
+heighest scoring student in 12th
+
+heighest scoring student in 10th + 12th avg
+
+
+
+1)condition 1
+greater thn 80 % avg student get admission in IIM
+
+2)
+greater thn 90 % avg student get admission in IIT
+
+
+you need find how many need display detail also students can get admission in IIM
+you need find how many need display detail also students can get admission in IIT
+you need find how many need display detail alsostudents can get admission in IIM and IIT BOTH
+
+
+do all code with function only...
