@@ -9,4 +9,4 @@ result = lambda x,y : f"{x} is smaller than {y}" \
 res = lambda x,y : x if (x>y)\
     else(y if x<y else "both are equal")
 
-print(res(a,b))    
+print(result(a,b))    

@@ -4,8 +4,10 @@ def evn(arg):
         yield x*arg
 
 
-#env_list =[lambda arg = x : arg *10 for x in range(1,6)]
-list1 = [10,20,30,40,50]
+env_list =[lambda arg = x : arg *10 for x in range(1,6)]
+for i in env_list:
+    print(i())
+    
 
 
 
