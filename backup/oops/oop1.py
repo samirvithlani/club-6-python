@@ -23,7 +23,6 @@ class User:
     print("I am a class")
     print(id)    
 
-
 #object
 #u = User()
 u = User(10)
