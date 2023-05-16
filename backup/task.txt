@@ -26,3 +26,11 @@ you need find how many need display detail alsostudents can get admission in IIM
 
 
 do all code with function only...
+
+#hybrid inheritance
+1 --> b --> 3 child class -->1
+
+#hyrical inheritance
+                                        x
+                                 a             b       
+                             p      q     m        n    
