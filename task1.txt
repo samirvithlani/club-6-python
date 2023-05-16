@@ -1,0 +1,12 @@
+food["food name":"recipe"]
+place["city":"country"]
+time:["india":"time"]
+
+
+what time is it now at india?
+india's time now is ....
+
+please share pasta recipe?
+please check pasta rescipe ....
+
+where is Ahmedabad?
