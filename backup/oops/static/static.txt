@@ -1,0 +1,13 @@
+class Employee
+
+            non static variable
+            name:
+
+
+
+e1 = new Employee();
+e2 = new Employee();
+e3 = new Employee();
+e4 = new Employee();
+
+4 copy
