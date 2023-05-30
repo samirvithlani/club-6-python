@@ -1,0 +1,9 @@
+panda is os library
+panda is used for data analysis
+panda is used for data manipulation
+panda is built on numpy
+
+
+series,dataframe
+series is a one dimensional array (integer,float,string)
+dataframe is a two dimensional array

@@ -1,0 +1,6 @@
+numpy is n dimensional array object
+it is used for scientific computing
+
+pip install numpy
+
+numpy works with multidimensional array
