@@ -1,6 +1,6 @@
 import pandas as pd
 
-dict = {"Name":["samir","raj","parth","sanjay"],"Age":[20,21,22,23],"City":["surat","ahmedabad","baroda","rajkot"],"salary":[10000,20000,30000,40000]}
+dict = {"Name":["samir","raj","parth","san jay"],"Age":[20,21,22,23],"City":["surat","ahmedabad","baroda","rajkot"],"salary":[10000,20000,30000,40000]}
 
 df = pd.DataFrame(dict)
 #print(df)
