@@ -1,1 +1,1 @@
-value of a 100
+value of a =100
